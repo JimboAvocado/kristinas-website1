@@ -159,6 +159,7 @@ h3{
 	}
 }
 
+/* This media code mainly makes the two divs with the player card rotations dissapeaer when it hits 1300 px*/
 @media only screen and (max-width: 1300px) {
 	h1{
 		font-size: 60px;
